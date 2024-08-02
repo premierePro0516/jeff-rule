@@ -1,0 +1,7 @@
+payload:
+  # 内容：free domain name registrations
+  # 数量：4 条
+- DOMAIN-SUFFIX,cloudflare.com
+- DOMAIN-SUFFIX,cloudflareinsights.com
+- DOMAIN-SUFFIX,dynv6.com
+- DOMAIN-SUFFIX,cloudns.net

@@ -1,0 +1,8 @@
+payload:
+  # > tubi tv
+  # - USER-AGENT,tubi*
+  # - PROCESS-NAME,com.tubitv
+  - DOMAIN-SUFFIX,tubi.com
+  - DOMAIN-SUFFIX,tubitv.com
+  - DOMAIN-SUFFIX,tubi.video
+  - DOMAIN-KEYWORD,tubi

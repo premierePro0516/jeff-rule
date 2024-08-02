@@ -1,0 +1,7 @@
+payload:
+  # 内容：port used by email app such as MS Outlook
+  # 数量：4条
+  - 'DST-PORT,25'   #SMTP
+  - 'DST-PORT,110'  #POP
+  - 'DST-PORT,465'  #SMTP
+  - 'DST-PORT,995'  #POP
