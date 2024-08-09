@@ -5,4 +5,6 @@ payload:
 - DOMAIN-SUFFIX,cloudflareinsights.com
 - DOMAIN-SUFFIX,dynv6.com
 - DOMAIN-SUFFIX,cloudns.net
+- DOMAIN-SUFFIX,eu.org
+- DOMAIN-SUFFIX,infinityfree.com
 - DOMAIN-SUFFIX,nic.us.kg
