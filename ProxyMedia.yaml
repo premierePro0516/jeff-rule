@@ -1,7 +1,15 @@
 payload:
   # 内容：国外媒体列表
-  # 更新：2024-06-30 11:02:56
-  # 数量：367条
+  # 更新：2024-08-19 10:25:00
+  # 数量：371条
+
+  # Tubi TV
+  # - USER-AGENT,tubi*
+  # - PROCESS-NAME,com.tubitv
+  - DOMAIN-SUFFIX,tubi.com
+  - DOMAIN-SUFFIX,tubitv.com
+  - DOMAIN-SUFFIX,tubi.video
+  - DOMAIN-KEYWORD,tubi
 
   # ABC
   - DOMAIN-SUFFIX,edgedatg.com
@@ -417,14 +425,6 @@ payload:
   - DOMAIN-SUFFIX,twitch-ext.rootonline.de
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,twitchcdn.net
-
-  # Tubi TV
-  # - USER-AGENT,tubi*
-  # - PROCESS-NAME,com.tubitv
-  - DOMAIN-SUFFIX,tubi.com
-  - DOMAIN-SUFFIX,tubitv.com
-  - DOMAIN-SUFFIX,tubi.video
-  - DOMAIN-KEYWORD,tubi
 
   # ViuTV
   # USER-AGENT,Viu*
