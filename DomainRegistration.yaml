@@ -1,6 +1,7 @@
 payload:
   # 内容：free domain name registrations
-  # 数量：7 条
+  # 内容：广告白名单
+  # 数量：8 条
 - DOMAIN-SUFFIX,cloudflare.com
 - DOMAIN-SUFFIX,cloudflareinsights.com
 - DOMAIN-SUFFIX,dynv6.com
