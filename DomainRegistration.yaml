@@ -1,6 +1,5 @@
 payload:
-  # 内容：free domain name registrations
-  # 内容：广告白名单
+  # 内容：free domain name registrations used by Jeff
   # 数量：8 条
 - DOMAIN-SUFFIX,cloudflare.com
 - DOMAIN-SUFFIX,cloudflareinsights.com
